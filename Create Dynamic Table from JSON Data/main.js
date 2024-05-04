@@ -1,0 +1,27 @@
+const Data =[
+    {
+        "id":"1",
+        "name":"sonu",
+        "email":"hello@gmail.com"
+    },
+    {
+        "id":"2",
+        "name":"bhola",
+        "email":"bhola@gmail.com"
+    },
+    {
+        "id":"3",
+        "name":"rahul",
+        "email":"rahul@gmail.com"
+    },
+    {
+        "id":"4",
+        "name":"krishna",
+        "email":"krsihna@gmail.com"
+    },
+    {
+        "id":"5",
+        "name":"sushik",
+        "email":"shil@gmail.com"
+    }
+];
